@@ -1,0 +1,22 @@
+# 个人配置（用户需自行创建）
+scripts/config.sh
+
+# 搜索关键词（首次运行由用户生成）
+scripts/keywords.json
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器和 IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
